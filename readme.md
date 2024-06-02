@@ -26,15 +26,15 @@ Testowaliśmy algorytmy na zestawach danych o różnych rozmiarach (100, 1000 i 
 
 | Zestaw Danych     | Merge Sort | Insertion Sort | Timsort |
 |-------------------|------------|----------------|---------|
-| Losowe 100        |  ...       | ...            | ...     |
-| Losowe 1000       |  ...       | ...            | ...     |
-| Losowe 10000      |  ...       | ...            | ...     |
-| Posortowane 100   |  ...       | ...            | ...     |
-| Posortowane 1000  |  ...       | ...            | ...     |
-| Posortowane 10000 |  ...       | ...            | ...     |
-| Odwrotne 100      |  ...       | ...            | ...     |
-| Odwrotne 1000     |  ...       | ...            | ...     |
-| Odwrotne 10000    |  ...       | ...            | ...     |
+| Losowe 100        |  0.000097  | 0.000135       | 0.000003|
+| Losowe 1000       |  0.001353  | 0.013505       | 0.000065|
+| Losowe 10000      |  0.018154  | 1.421449       | 0.000946|
+| Posortowane 100   |  0.000094  | 0.000007       | 0.000001|
+| Posortowane 1000  |  0.001216  | 0.000073       | 0.000008|
+| Posortowane 10000 |  0.015859  | 0.000796       | 0.000078|
+| Odwrotne 100      |  0.000088  | 0.000257       | 0.000001|
+| Odwrotne 1000     |  0.001225  | 0.025992       | 0.000007|
+| Odwrotne 10000    |  0.015949  | 2.794999       | 0.000067|
 
 ## Wnioski
 
